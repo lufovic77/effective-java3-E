@@ -17,5 +17,5 @@
   
 ---
 ## 몰랐던 개념
-- WeakHashMap (https://blog.breakingthat.com/2018/08/26/java-collection-map-weakhashmap/)
-GC와 관련있는 개념으로, WeakHashMap의 원소들은 키의 값이 null이 되면 GC 대상이 되어 수거해간다. 
+- WeakHashMap (https://blog.breakingthat.com/2018/08/26/java-collection-map-weakhashmap/)  
+GC와 관련있는 개념으로, WeakHashMap의 원소들은 키의 값이 null이 되면 GC 대상이 되어 수거해간다.  

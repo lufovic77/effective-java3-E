@@ -14,3 +14,8 @@
 - 일반적인 경우, null을 직접적으로 넣어 처리하기보다 gc를 통해 처리하는게 깔끔하다.
 - 주의해야 할경우, 자기 메모리를 직접 관리하는 클래스라면, 메모리 누수에 주의해야한다.
   ex) Stack, Array 형.. 
+  
+---
+## 몰랐던 개념
+- WeakHashMap (https://blog.breakingthat.com/2018/08/26/java-collection-map-weakhashmap/)
+GC와 관련있는 개념으로, WeakHashMap의 원소들은 키의 값이 null이 되면 GC 대상이 되어 수거해간다. 

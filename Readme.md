@@ -14,11 +14,11 @@
 
 6. [**불필요한 객체 생성을 피하라.**](./src/test/java/ch02/item06)
 
-7. [**다 쓴 객체 참조를 해제하라.**](./src/test/java/ch02/item06)
+7. [**다 쓴 객체 참조를 해제하라.**](./src/test/java/ch02/item07)
 
-8. [**finalizer와 cleeaner 사용을 피하라.**](./src/test/java/ch02/item07)
+8. [**finalizer와 cleeaner 사용을 피하라.**](./src/test/java/ch02/item08)
 
-9. [**try-finally보다는 try-with-resources를 사용하라.**](./src/test/java/ch02/item08)
+9. [**try-finally보다는 try-with-resources를 사용하라.**](./src/test/java/ch02/item09)
 
 ### 3장 모든 객체의 공통 메서드
 
